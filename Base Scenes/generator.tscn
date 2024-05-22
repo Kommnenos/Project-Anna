@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://bvp80rcda2qs"]
 
-[ext_resource type="Script" path="res://Base Scenes/generator.gd" id="1_uccon"]
+[ext_resource type="Script" path="res://Scripts/Generator/generator.gd" id="1_uccon"]
 
 [node name="Generator" type="Node2D"]
 script = ExtResource("1_uccon")
